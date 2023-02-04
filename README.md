@@ -1,4 +1,12 @@
-# projeto-em-grupo-cake-mania
+<h1>Cake-Mania</h1>
+Modulo 1 Projeto em grupo Resilia/Senac.
+
+<h3> Projeto</h3>
+
+Criar um site comercial.
+
+<h2> Cake Mania Confeitaria </h2>
+<img src="https://imgur.com/249eeBM.png" ></img>
 
 link site:
 https://drive.google.com/file/d/1XsoDeF7Nn4vQANiNpzaFdHcMYFtTo96_/view?usp=sharing
