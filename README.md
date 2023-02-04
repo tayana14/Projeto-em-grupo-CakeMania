@@ -1,4 +1,4 @@
-<h1> :gem: Cake-Mania</h1>
+<h1> :gem: Cake-Mania :gem:</h1>
 Modulo 1 Projeto em grupo Resilia/Senac.
 
 <h3> Projeto</h3>
