@@ -8,6 +8,20 @@ Criar um site comercial.
 <h2>:cake: Cake Mania Confeitaria :cake:</h2>
 <img src="https://imgur.com/249eeBM.png" ></img>
 
+<h2>:doughnut:  Inspirações :doughnut: </h2>
+<img src="https://imgur.com/nQev8Kr.png"></img>
+
+<H2>:doughnut: Ferramentas Utilizadas :doughnut: </h2>
+
+<ul>
+<li>:lollipop: HTML</li>
+<li>:lollipop: CSS</li>
+<li>:lollipop: JS</li>
+</ul>
+
+<img src="https://imgur.com/NADdNEr.png"></img>
+
+
 link site:
 https://drive.google.com/file/d/1XsoDeF7Nn4vQANiNpzaFdHcMYFtTo96_/view?usp=sharing
 apresentação slide:
