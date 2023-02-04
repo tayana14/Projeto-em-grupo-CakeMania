@@ -1,11 +1,11 @@
-<h1> :gem: Cake-Mania :gem:</h1>
+<h1> :cupcake: Cake-Mania :cupcake:</h1>
 Modulo 1 Projeto em grupo Resilia/Senac.
 
-<h3> Projeto</h3>
+<h3>📜  Projeto</h3>
 
 Criar um site comercial.
 
-<h2> Cake Mania Confeitaria </h2>
+<h2>:cake: Cake Mania Confeitaria :cake:</h2>
 <img src="https://imgur.com/249eeBM.png" ></img>
 
 link site:
